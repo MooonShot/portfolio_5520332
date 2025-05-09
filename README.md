@@ -1,16 +1,20 @@
-# portfolio_5520332
+# Portfolio App
 
-A new Flutter project.
+Dies ist eine einfache Portfolio-App, erstellt mit Flutter im Rahmen des Praktikums.
 
-## Getting Started
+## Entwickler
 
-This project is a starting point for a Flutter application.
+- Name: Aayush Babbar  
+- Matrikelnummer: 5520332  
+- E-Mail: aayush.babbar@mnd.thm.de
 
-A few resources to get you started if this is your first Flutter project:
+## Flutter Version
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Flutter 3.4.3
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Starten der App
+
+```bash
+flutter pub get
+flutter run
