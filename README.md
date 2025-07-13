@@ -1,6 +1,6 @@
 # 🚀 Portfolio App
 
-Dies ist eine einfache Portfolio-App, erstellt mit **Flutter** im Rahmen des Praktikums.
+Dies ist eine einfache Portfolio App, erstellt mit **Flutter** im Rahmen des Praktikums.
 
 ---
 
